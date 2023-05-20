@@ -1,4 +1,4 @@
-# H1 Notes
+# Notes
 - Binary Search is not applicable for all search spaces, it works on certain search spaces, which satisfies certain properties.
 - When is BS applicable ? 
    1. Find a predicate - A statement that outputs boolean values in F* T* fashion.
