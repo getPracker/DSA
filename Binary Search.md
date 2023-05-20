@@ -10,3 +10,6 @@
    3. Trim Search Space
    4. Define Predicate
    5. Apply Binary Search
+- Question list
+- [ ] https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/
+
