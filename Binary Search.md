@@ -12,4 +12,8 @@
    5. Apply Binary Search
 - Question list
 - [ ] https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/
+- [ ] https://leetcode.com/problems/search-a-2d-matrix-ii/
+- [ ] https://leetcode.com/problems/h-index-ii/
+- [ ] https://leetcode.com/problems/koko-eating-bananas/
+- [ ] https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 
