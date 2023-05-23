@@ -9,3 +9,5 @@
 - Questions
 - [ ] https://leetcode.com/problems/subsets/  
 - [ ] https://leetcode.com/problems/combination-sum/ 
+- [ ] https://leetcode.com/problems/palindrome-partitioning
+- [ ] https://leetcode.com/problems/word-search
