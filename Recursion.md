@@ -12,3 +12,6 @@
 - [ ] https://leetcode.com/problems/palindrome-partitioning
 - [ ] https://leetcode.com/problems/word-search\
 - [ ] https://leetcode.com/problems/subsets-ii/
+- [ ] https://leetcode.com/problems/permutations-ii/
+- [ ] https://leetcode.com/problems/path-with-maximum-gold
+- [ ] https://leetcode.com/problems/n-queens/
