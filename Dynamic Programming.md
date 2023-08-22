@@ -13,4 +13,6 @@ Steps to solve DP
 
 Types of DP Problems
 - Include/Exclude
+- For Sub-arrays - Decision on last index of sub-array. | Extend a sequence(Look at Predecessor)
+- First Partition | First element of the eventual solution.
 - 
