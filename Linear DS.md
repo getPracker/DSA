@@ -17,3 +17,16 @@
    > Proof
    > ![FCD Proof](/assests/images/fcd-proof-ii.png "FCD Proof 2")
 
+# Stack
+
+## Algorithms
+1. Next Greater Elememt(NGE)
+   - Invariant ? Invariant is the property (part of the program) of stack that remains constant throughout the runtime of the algorithm.
+   - In this(NGE) case
+     - Monotonus Stack (Always decreasing)
+     - Elements in stack are always the ones for which NGE has to be determined.
+2. NGEII
+   - Problem - https://leetcode.com/problems/next-greater-element-ii/
+   - Since it is a circular list, we can loop the array twice.
+   - `for(i = 0; i < 2*size; i++){currIdx = i%2;}`
+   - This will convert the array into a1,a2,...an,a1,a2,....an.
