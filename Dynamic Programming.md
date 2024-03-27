@@ -14,5 +14,6 @@ Steps to solve DP
 Types of DP Problems
 - Include/Exclude
 - For Sub-arrays - Decision on last index of sub-array. | Extend a sequence(Look at Predecessor)
-- First Partition | First element of the eventual solution.
+- First Partition | First element of the eventual solution. --- imp in 2-d dp.
+- Extending a sequence - lookup predecessor for subsequnce - it could be any j < i 
 - 
